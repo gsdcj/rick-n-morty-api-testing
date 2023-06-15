@@ -1,0 +1,3 @@
+/*
+populating the dom with js and fetching the api contents
+*/
