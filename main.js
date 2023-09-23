@@ -12,3 +12,5 @@ function show(data) {
 }
    console.log(data);
  };
+//noticed i didn't call the function hhhh...
+show(data)
