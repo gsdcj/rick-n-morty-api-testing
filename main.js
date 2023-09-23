@@ -6,5 +6,9 @@ fetch('https://rickandmortyapi.com/api/character');
 .then(data => show(data.result));
 
 function show(data) {
+// trying my first commit
+   for (var pic in data.articles) {
+      console.log(pic[image}
+}
    console.log(data);
  };
